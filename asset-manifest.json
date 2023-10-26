@@ -1,16 +1,39 @@
 {
   "files": {
-    "main.css": "/simple_cms/static/css/main.073c9b0a.css",
-    "main.js": "/simple_cms/static/js/main.3f3ddef8.js",
+    "main.css": "/simple_cms/static/css/main.e6c13ad2.css",
+    "main.js": "/simple_cms/static/js/main.ad3a8b58.js",
+    "static/js/245.e446cf06.chunk.js": "/simple_cms/static/js/245.e446cf06.chunk.js",
     "static/js/787.1a4a77e2.chunk.js": "/simple_cms/static/js/787.1a4a77e2.chunk.js",
-    "static/media/logo.svg": "/simple_cms/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/css/508.40222e0d.chunk.css": "/simple_cms/static/css/508.40222e0d.chunk.css",
+    "static/js/508.a7e8dbfb.chunk.js": "/simple_cms/static/js/508.a7e8dbfb.chunk.js",
+    "static/js/449.e281494d.chunk.js": "/simple_cms/static/js/449.e281494d.chunk.js",
+    "static/js/850.5fb1dbf0.chunk.js": "/simple_cms/static/js/850.5fb1dbf0.chunk.js",
+    "static/js/399.477ea3eb.chunk.js": "/simple_cms/static/js/399.477ea3eb.chunk.js",
+    "static/js/65.13247549.chunk.js": "/simple_cms/static/js/65.13247549.chunk.js",
+    "static/js/100.55a95950.chunk.js": "/simple_cms/static/js/100.55a95950.chunk.js",
+    "static/js/511.767cb10b.chunk.js": "/simple_cms/static/js/511.767cb10b.chunk.js",
+    "static/js/930.132657bb.chunk.js": "/simple_cms/static/js/930.132657bb.chunk.js",
+    "static/js/89.03c9db2b.chunk.js": "/simple_cms/static/js/89.03c9db2b.chunk.js",
+    "static/js/607.c2b45793.chunk.js": "/simple_cms/static/js/607.c2b45793.chunk.js",
+    "static/media/index.cjs": "/simple_cms/static/media/index.87283f34b94ab8669cb4.cjs",
+    "static/media/logo.svg": "/simple_cms/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/simple_cms/index.html",
-    "main.073c9b0a.css.map": "/simple_cms/static/css/main.073c9b0a.css.map",
-    "main.3f3ddef8.js.map": "/simple_cms/static/js/main.3f3ddef8.js.map",
-    "787.1a4a77e2.chunk.js.map": "/simple_cms/static/js/787.1a4a77e2.chunk.js.map"
+    "main.e6c13ad2.css.map": "/simple_cms/static/css/main.e6c13ad2.css.map",
+    "main.ad3a8b58.js.map": "/simple_cms/static/js/main.ad3a8b58.js.map",
+    "245.e446cf06.chunk.js.map": "/simple_cms/static/js/245.e446cf06.chunk.js.map",
+    "787.1a4a77e2.chunk.js.map": "/simple_cms/static/js/787.1a4a77e2.chunk.js.map",
+    "508.40222e0d.chunk.css.map": "/simple_cms/static/css/508.40222e0d.chunk.css.map",
+    "508.a7e8dbfb.chunk.js.map": "/simple_cms/static/js/508.a7e8dbfb.chunk.js.map",
+    "449.e281494d.chunk.js.map": "/simple_cms/static/js/449.e281494d.chunk.js.map",
+    "850.5fb1dbf0.chunk.js.map": "/simple_cms/static/js/850.5fb1dbf0.chunk.js.map",
+    "399.477ea3eb.chunk.js.map": "/simple_cms/static/js/399.477ea3eb.chunk.js.map",
+    "65.13247549.chunk.js.map": "/simple_cms/static/js/65.13247549.chunk.js.map",
+    "930.132657bb.chunk.js.map": "/simple_cms/static/js/930.132657bb.chunk.js.map",
+    "89.03c9db2b.chunk.js.map": "/simple_cms/static/js/89.03c9db2b.chunk.js.map",
+    "607.c2b45793.chunk.js.map": "/simple_cms/static/js/607.c2b45793.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3f3ddef8.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad3a8b58.js"
   ]
 }
