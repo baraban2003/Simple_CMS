@@ -1,13 +1,6 @@
 import React from "react";
 import tabsData from "../Assets/tabs.json";
-import {
-  NavLink,
-  Routes,
-  Route,
-  useParams,
-  useLocation,
-} from "react-router-dom";
-import { useState, useEffect, lazy, Suspense } from "react";
+import { NavLink } from "react-router-dom";
 
 export default function Tabs() {
   return (

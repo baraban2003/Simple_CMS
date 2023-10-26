@@ -1,4 +1,4 @@
-import React, { useState, useEffect, lazy, Suspense } from "react";
+import React, { lazy, Suspense } from "react";
 import { Route, Routes, Navigate } from "react-router-dom";
 
 import tabsData from "./Assets/tabs.json";

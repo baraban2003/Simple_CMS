@@ -16,7 +16,6 @@ export default function TabContent() {
   const tab = tabsData.find((t) => t.id === tabId);
 
   if (!tab) {
-    // Handle the case when no matching tab is found
     return <div>Tab not found</div>;
   }
 
