@@ -1,10 +1,10 @@
 import React, { useState, useEffect, lazy, Suspense } from "react";
 import { Route, Routes, Navigate } from "react-router-dom";
 
-import Tabs from "./Views/Tabs";
-import TabContent from "./Views/TabContent";
-
 import tabsData from "./Assets/tabs.json";
+
+import Tabs from "./Views/Tabs";
+const TabContent = lazy(() => import("./Views/TabContent"));
 
 function App() {
   return (
